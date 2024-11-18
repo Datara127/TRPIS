@@ -6,7 +6,6 @@ def main():
 
     content = read_file(FILE_NAME)
     print(f"File content:\n{content}")
-    print("yra yra")
 
 if __name__ == "__main__":
     main()
